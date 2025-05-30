@@ -6,7 +6,7 @@ Bot Telegram scritto in Python, con una struttura modulare basata sulla **progra
 
 ## 🚀 Funzionalità
 
-- Comandi `/start` e `/help`
+- Comandi `/start`
 - Architettura OOP: comandi separati in una classe
 - Token gestito da file `config.json`
 - Costruito con la libreria `python-telegram-bot` (v20+)

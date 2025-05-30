@@ -15,12 +15,13 @@ Bot Telegram scritto in Python, con una struttura modulare basata sulla **progra
 ---
 
 ## 🗂️ Struttura del progetto
-
+```
 telegram_bot_oop/
 ├── main.py # Entrypoint principale del bot
 ├── commands.py # Classe con i comandi del bot
 ├── config.json # Contiene in modo sicuro il token
 └── README.md # Documentazione del progetto
+```
 
 
 ---
